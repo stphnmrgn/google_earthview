@@ -1,0 +1,23 @@
+name: env
+channels:
+  - defaults
+dependencies:
+  - certifi=2018.8.24=py35_1
+  - freetype=2.10.2=hd328e21_0
+  - jpeg=9b=hb83a4c4_2
+  - libpng=1.6.37=h2a8f88b_0
+  - libtiff=4.1.0=h56a325e_1
+  - lz4-c=1.9.2=h62dcd97_0
+  - olefile=0.46=py35_0
+  - pillow=5.2.0=py35h08bbbbd_0
+  - pip=10.0.1=py35_0
+  - python=3.5.6=he025d50_0
+  - setuptools=40.2.0=py35_0
+  - tk=8.6.10=he774522_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_3
+  - wheel=0.31.1=py35_0
+  - wincertstore=0.2=py35hfebbdb8_0
+  - xz=5.2.5=h62dcd97_0
+  - zlib=1.2.11=h62dcd97_4
+  - zstd=1.4.4=ha9fde0e_3
