@@ -9,7 +9,10 @@ This repo is an adaptation from Henry Lim's
 
 ## Requirements
 
-Code in this repository uses python 3.5.3 and instructions are for Windows.
+- python 3.5
+- Pillow 5.2.0
+
+The exact python virtual environment can be built using the environment.yml file using conda. The below instructions are for Windows.
 
 ## Get Started
 
