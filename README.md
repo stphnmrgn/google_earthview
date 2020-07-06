@@ -1,5 +1,4 @@
 # Google EarthView Image Download
-
 Repo, code, and data for downloading images from [Earth View](https://earthview.withgoogle.com/), 
 a Google chrome extension that displays a beautiful landscape from Google Earth every time you 
 open a new tab.
