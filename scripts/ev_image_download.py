@@ -11,8 +11,8 @@ import urllib.request
 import os
 import csv
 
-image_list_csv = r"E:\Python\Projects\EarthView_Wallpaper\Data\ev_list_scrub_removedquestion.csv"
-download_folder = r"E:\Python\Projects\EarthView_Wallpaper\Image_Download"
+image_list_csv = r"..\Data\ev_list_scrub_removedquestion.csv"
+download_folder = r"..\Image_Download"
 
 
 def download_image(file_path):
