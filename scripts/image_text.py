@@ -15,9 +15,9 @@ from PIL import ImageDraw, Image, ImageFont
 import os
 
 # change these per your requirements
-image_folder = r"E:\Python\Projects\EarthView_Wallpaper\Image_Download\\"
-output_folder = r"E:\Python\Projects\EarthView_Wallpaper\Image_Download\Text_Added"
-font_file = r"E:\Python\Projects\EarthView_Wallpaper\Font\arial.ttf"
+image_folder = "..images\\"
+output_folder = "..images\text_added"
+font_file = "..font\arial.ttf"
 extensions = ["JPG"]
 
 for image in os.listdir(image_folder):
